@@ -17,6 +17,7 @@ Demo here: http://jsfiddle.net/alalonde/NZum5
 More infomation here: http://blog.boxelderweb.com/2013/08/19/angularjs-a-lazily-loaded-recursive-tree-widget/
 
 To Do: 
+
 1. Extract some of the DOM-manipulation code into the template so it's easier to modify (e.g. the spinner image)
 2. Improve event bubbling so that there is no need to broadcast events from an external controller for it to function correctly
 3. Testing...
