@@ -18,6 +18,11 @@ More infomation here: http://blog.boxelderweb.com/2013/08/19/angularjs-a-lazily-
 
 License: MIT
 
+Notes
+=====
+
+This directive is mainly posted for academic purposes; mainly, to prove the concept of recursive tree nodes.  I cannot recommend using it out of the box as it is largely untested and will require changes to the node template to be useful. 
+
 To Do: 
 
 1. Extract some of the DOM-manipulation code into the template so it's easier to modify (e.g. the spinner image)
